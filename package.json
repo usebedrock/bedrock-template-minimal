@@ -1,14 +1,14 @@
 {
-  "name": "bedrock-template",
+  "name": "bedrock-template-minimal",
   "version": "1.0.0",
-  "description": "Example user content for Bedrock",
+  "description": "The most minimal template for Bedrock",
   "scripts": {
     "serve": "./node_modules/.bin/bedrock serve",
     "build": "./node_modules/.bin/bedrock build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thusc/bedrock.git"
+    "url": "git@github.com:usebedrock/bedrock-template-minimal.git"
   },
   "keywords": [],
   "author": "",
